@@ -1,6 +1,6 @@
 # ec-luart-extensions
 
-This repository provides an overview of my self-programmed LuaRT extensions modules.
+This repository provides an overview of my self-programmed LuaRT extension modules.
 
 | Repository  | Description |
 | --- | --- |
