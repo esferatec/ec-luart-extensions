@@ -9,6 +9,7 @@ This repository provides an overview of my self-programmed LuaRT extension modul
 | [uidatetime](https://github.com/esferatec/ec-luart-uidatetime) | This project provides various datetime ui objects for LuaRT. |
 | [uidialogs](https://github.com/esferatec/ec-luart-uidialogs) | This project provides common dialog ui functions for LuaRT. |
 | [uiextension](https://github.com/esferatec/ec-luart-uiextension) | This project provides various extension ui objects for LuaRT. |
+| [uiindicator](https://github.com/esferatec/ec-luart-uiindictaor) | This project provides various indicator ui objects for LuaRT. |
 | [uivalidators](https://github.com/esferatec/ec-luart-uivalidators) | This project provides input validation ui objects for LuaRT. |
 
 ## License
